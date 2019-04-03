@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/game_over2.wav</file>
+        <file>sound/polyot_korablya.wav</file>
+        <file>sound/razgovor_marsian.wav</file>
+        <file>gargant-move-wounded.png</file>
+        <file>sound/schpok.wav</file>
+        <file>qt.jpg</file>
+        <file>qt2.jpg</file>
+        <file>ufo_people.jpg</file>
+        <file>sound/zvukovoj-effekt.wav</file>
+    </qresource>
+</RCC>
